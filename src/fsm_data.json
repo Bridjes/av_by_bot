@@ -1,0 +1,38 @@
+{
+    "689354118": {
+        "689354118": {
+            "state": "ClientRegisterStates:phone",
+            "data": {
+                "user_id": "2"
+            },
+            "bucket": {}
+        }
+    },
+    "5255029576": {
+        "5255029576": {
+            "state": "ClientRegisterStates:phone",
+            "data": {
+                "user_id": "28"
+            },
+            "bucket": {}
+        }
+    },
+    "535021538": {
+        "535021538": {
+            "state": "ClientRegisterStates:phone",
+            "data": {
+                "user_id": "32"
+            },
+            "bucket": {}
+        }
+    },
+    "764841845": {
+        "764841845": {
+            "state": "ClientRegisterStates:phone",
+            "data": {
+                "user_id": "31"
+            },
+            "bucket": {}
+        }
+    }
+}
